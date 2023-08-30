@@ -15,3 +15,9 @@
 4) Copy Powershell Command
 
 *Note: If you are using Windows 10, please update "App Installer" from Microsoft Store* 
+
+### Ungroup all folder
+1) Go to this [link](https://lesferch.github.io/WinSetView/) and download the software
+2) Open the .exe file
+3) Edit whatever you want
+4) Click "Submit"
