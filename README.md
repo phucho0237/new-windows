@@ -8,7 +8,7 @@
 
 *For more info, you can check on [official repository](https://github.com/Sycnex/Windows10Debloater) of Windows 10 Debloater*
 
-## Bulk Download Application
+# Bulk Download Application
 1) Go to this [link](https://winstall.app/)
 2) Select an app you want to install
 3) Click "Generate Script"
@@ -16,8 +16,10 @@
 
 *Note: If you are using Windows 10, please update "App Installer" from Microsoft Store* 
 
-### Ungroup all folder
+# Ungroup all folder
 1) Go to this [link](https://lesferch.github.io/WinSetView/) and download the software
 2) Open the .exe file
 3) Edit whatever you want
 4) Click "Submit"
+
+# K-Lite Codec Pack
