@@ -22,4 +22,6 @@
 3) Edit whatever you want
 4) Click "Submit"
 
-# K-Lite Codec Pack
+# Must have app
+- ShareX
+- K-Lite Codec Pack
